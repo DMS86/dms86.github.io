@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my homepage. Feel free to reach out if you are interested in a research collaboration. You can contact me at dmunoz [at] swin [dot] edu [dot] au.
+Welcome to my homepage. Feel free to reach out if you are interested in a research collaboration. You can find my socials at the bottom of this page.
 
 I am a Lecturer in Communication Design at the School of Design and Architecture at [Swinburne University of Technology](https://experts.swinburne.edu.au/6927-diego-munoz). I received my PhD in Human-Computer Interaction at Queensland University of Technology.
 
 My research focuses on understanding people's practices and lived experience to design and develop technology that benefits their eveyday lives. I have a particular interest in using participatory and co-design methodologies that encourage people to voice their technology goals and needs.
 
-My main topics of interest are ageing, working with underrepresented groups, and 
+My main topics of interest are ageing, working with underrepresented groups, and finding positive uses of emerging technologies (including AI) in varied settings.
